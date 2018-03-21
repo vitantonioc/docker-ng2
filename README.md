@@ -1,1 +1,2 @@
-# docker-ng2
+# docker-ng2-mng-exp-node
+Mean with Docker
